@@ -1,2 +1,2 @@
 # fiona
-web ghost
+this is a web ghost project.
